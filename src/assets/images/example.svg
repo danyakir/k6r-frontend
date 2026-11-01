@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+<title id="title">Connect your test environment</title>
+<desc id="desc">OpenShift API: https://api.cluster-1.example.com:6443 Git repository: https://gitlab.example.com/group/repo-name Follow the written setup steps in k6r Docs.</desc>
+<rect width="1000" height="420" rx="16" fill="#18212f"/>
+<text x="48" y="60" fill="#a7b7cf" font-family="sans-serif" font-size="18">K6R / SETUP EXAMPLE</text>
+<text x="48" y="120" fill="#ffffff" font-family="sans-serif" font-size="32">Connect your test environment</text>
+<text x="48" y="190" fill="#d4deed" font-family="sans-serif" font-size="22">OpenShift API: https://api.cluster-1.example.com:6443</text>
+<text x="48" y="238" fill="#d4deed" font-family="sans-serif" font-size="22">Git repository: https://gitlab.example.com/group/repo-name</text>
+<text x="48" y="286" fill="#d4deed" font-family="sans-serif" font-size="22">Follow the written setup steps in k6r Docs.</text>
+<text x="48" y="382" fill="#a7b7cf" font-family="sans-serif" font-size="16">Illustrative example. Use your own environment values.</text>
+</svg>

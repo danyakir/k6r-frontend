@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+<title id="title">Locate the service account secret</title>
+<desc id="desc">Open Workloads, then Secrets. Locate the token secret for your service account.</desc>
+<rect width="1000" height="420" rx="16" fill="#18212f"/>
+<text x="48" y="60" fill="#a7b7cf" font-family="sans-serif" font-size="18">K6R / SETUP EXAMPLE</text>
+<text x="48" y="120" fill="#ffffff" font-family="sans-serif" font-size="32">Locate the service account secret</text>
+<text x="48" y="190" fill="#d4deed" font-family="sans-serif" font-size="22">Open Workloads, then Secrets.</text>
+<text x="48" y="238" fill="#d4deed" font-family="sans-serif" font-size="22">Locate the token secret for your service account.</text>
+<text x="48" y="382" fill="#a7b7cf" font-family="sans-serif" font-size="16">Illustrative example. Use your own environment values.</text>
+</svg>
